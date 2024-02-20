@@ -4,6 +4,10 @@
 # Log file
 *.log
 
+# IntelliJ files
+*.iml
+.idea/
+
 # BlueJ files
 *.ctxt
 
@@ -12,6 +16,7 @@
 
 # Package Files #
 *.jar
+target/
 *.war
 *.nar
 *.ear
